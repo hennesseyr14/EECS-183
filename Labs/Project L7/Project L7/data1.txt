@@ -1,0 +1,5 @@
+2What is your favorite color?
+5 blue
+2 red
+
+7 green

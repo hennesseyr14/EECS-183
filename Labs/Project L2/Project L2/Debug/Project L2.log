@@ -1,0 +1,6 @@
+﻿  debugIt.cpp
+c:\users\ryan\dropbox\eecs 183\labs\project l2\project l2\debugit.cpp(25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ryan\dropbox\eecs 183\labs\project l2\project l2\debugit.cpp(26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\ryan\dropbox\eecs 183\labs\project l2\project l2\debugit.cpp(34): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Project L2.vcxproj -> C:\Users\Ryan\Dropbox\EECS 183\Labs\Project L2\Debug\Project L2.exe
+  Project L2.vcxproj -> C:\Users\Ryan\Dropbox\EECS 183\Labs\Project L2\Debug\Project L2.pdb (Partial PDB)
